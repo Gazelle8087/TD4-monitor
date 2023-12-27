@@ -20,10 +20,11 @@ TD4のROMは8P-DIPスイッチを16個並べて実現しており以下の特長
 (7) 供給クロックをコンソールから変更可能
 
 ## 基板・部品
-回路図はTD4-monitor_Schematic.pdfご参照ください。
-TD4_monitor231209.zip 私がJLCPCBに発注した基板の設計データです。
-!(https://github.com/Gazelle8087/TD4-monitor/blob/main/PCB_B.jpg)
-!(https://github.com/Gazelle8087/TD4-monitor/blob/main/PCB_F.jpg)
+回路図はTD4-monitor_Schematic.pdfご参照ください。  
+TD4_monitor231209.zip 私がJLCPCBに発注した基板の設計データです。  
+![Front](https://github.com/Gazelle8087/TD4-monitor/blob/main/PCB_F.jpg)
+![Back](https://github.com/Gazelle8087/TD4-monitor/blob/main/PCB_B.jpg)
+
 
 ## ソフトウエア
 __ソフトウエアは正式リリース前です__
